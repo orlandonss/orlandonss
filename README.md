@@ -50,7 +50,7 @@ I am a software developer and network engineer. I work on both sides of the conn
 **TECHNOLOGIES**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,mongodb,nodejs&theme=dark" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,docker,mongodb,nodejs&theme=dark" alt="Tecnologias"/>
 </p>
 
 **TOOLS**
