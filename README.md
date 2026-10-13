@@ -11,8 +11,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/orlandosantos22"><img src="https://img.shields.io/badge/LinkedIn-orlandosantos22-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://orlandonss.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-orlandonss.com-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/></a>
-<img src="https://komarev.com/ghpvc/?username=orlandonss&style=for-the-badge&color=6D28D9&label=VISITAS" alt="Visitas"/>
+<a href="https://orlandonss.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-orlandonss.com-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/></a>
+<img src="https://komarev.com/ghpvc/?username=orlandonss&style=for-the-badge&color=6D28D9&label=VISITAS" alt="VisitS"/>
 
 </div>
 
