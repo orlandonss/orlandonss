@@ -123,8 +123,6 @@ Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados
   </picture>
 </p>
 
-<br/>
-
 <!-- ───────────────────────── REDES ───────────────────────── -->
 ## `> contato`
 
