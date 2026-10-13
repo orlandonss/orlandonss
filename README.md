@@ -131,7 +131,7 @@ Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados
 <p align="center">
   <a href="https://www.linkedin.com/in/orlandosantos22"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://orlandonss.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/></a>
-  <a href="https://github.com/orlandonss"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:orlando.p.nogueira@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- ───────────────────────── RODAPÉ ───────────────────────── -->
