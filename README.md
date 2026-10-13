@@ -1,7 +1,7 @@
 <!-- ───────────────────────── BANNER ───────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:6D28D9,100:C0C0C0&text=orlandonss&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Network%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner orlandonss" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:6D28D9,100:C0C0C0&text=orlandonss&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Junior Software%20Developer%20%C2%B7%20Network%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner orlandonss" width="100%"/>
 
 <!-- ───────────────────── TYPING ANIMATION ───────────────────── -->
 <a href="https://orlandonss.com">
