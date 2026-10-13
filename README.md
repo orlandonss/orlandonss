@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- ───────────────────────── BANNER ───────────────────────── -->
 <div align="center">
 
@@ -61,6 +59,7 @@ Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados
   <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="48"/>
   <img src="https://img.shields.io/badge/GNS3-A78BFA?style=for-the-badge&logoColor=white" alt="GNS3" height="48"/>
+   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" height="48"/>
 </p>
 
 **Protocolos de rede**
