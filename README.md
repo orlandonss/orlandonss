@@ -5,7 +5,7 @@
 
 <!-- ───────────────────── TYPING ANIMATION ───────────────────── -->
 <a href="https://orlandonss.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Developer;Network+Engineer;C%2B%2B+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+React;TCP%2FIP+%C2%B7+OSPF+%C2%B7+EIGRP+%C2%B7+Wireshark;C%C3%B3digo+e+redes%2C+do+pacote+%C3%A0+interface" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Developer;Network+Engineer;C%2B%2B+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+React;TCP%2FIP+%C2%B7+OSPF+%C2%B7+EIGRP+%C2%B7+Wireshark;Code+and+networks%2C+from+packet+to+interface" alt="Typing animation"/>
 </a>
 
 <br/>
