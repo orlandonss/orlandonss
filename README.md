@@ -36,7 +36,7 @@ I am a software developer and network engineer. I work on both sides of the conn
 **LANGUAGES**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,java,html,css,py&theme=dark" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,py&theme=dark" alt="Linguagens"/>
   <img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="48"/>
 </p>
 
