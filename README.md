@@ -21,7 +21,7 @@
 <!-- ───────────────────────── SOBRE MIM ───────────────────────── -->
 ## `> ABOUT ME`
 
-I am a software developer and network engineer. I work on both sides of the connection: I build applications with C#, .NET, React, and Node.js, and I understand what happens on the network underneath them, from routing and gateway redundancy to packet analysis.
+I am a software developer and network engineer. I work on both sides of the connection: I build applications  and I understand what happens on the network underneath them, from routing and gateway redundancy to packet analysis.
 
 - 🛠️ Web and backend applications with .NET, Blazor, React, and Node.js
 - 🌐 Networks with OSPF, EIGRP, RIP, HSRP, and VRRP, simulated in GNS3 and analyzed in Wireshark
