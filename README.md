@@ -19,41 +19,41 @@
 <br/>
 
 <!-- ───────────────────────── SOBRE MIM ───────────────────────── -->
-## `> sobre_mim`
+## `> ABOUT ME`
 
-Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados da conexão: construo aplicações com C#, .NET, React e Node.js, e entendo o que acontece na rede por baixo delas, de roteamento e redundância de gateway até a análise de pacotes.
+I am a software developer and network engineer. I work on both sides of the connection: I build applications with C#, .NET, React, and Node.js, and I understand what happens on the network underneath them, from routing and gateway redundancy to packet analysis.
 
-- 🛠️ Aplicações web e backend com **.NET, Blazor, React e Node.js**
-- 🌐 Redes com **OSPF, EIGRP, RIP, HSRP e VRRP**, simuladas no **GNS3** e analisadas no **Wireshark**
-- ☁️ Infraestrutura em **AWS** e **Microsoft Azure**, com **Linux** e **Docker**
-- 🔗 Mais sobre mim e meus trabalhos em **[orlandonss.com](https://orlandonss.com)**
+- 🛠️ Web and backend applications with .NET, Blazor, React, and Node.js
+- 🌐 Networks with OSPF, EIGRP, RIP, HSRP, and VRRP, simulated in GNS3 and analyzed in Wireshark
+- ☁️ Infrastructure on AWS and Microsoft Azure, with Linux and Docker
+- 🔗 More about me and my work at orlandonss.com
 
 <br/>
 
 <!-- ───────────────────────── TECNOLOGIAS ───────────────────────── -->
-## `> stack`
+## `> STACK`
 
-**Linguagens**
+**L**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,java,html,css,py&theme=dark" alt="Linguagens"/>
   <img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="48"/>
 </p>
 
-**Frameworks**
+**FRAMEWORKS**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,dotnet&theme=dark" alt="Frameworks"/>
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" height="48"/>
 </p>
 
-**Tecnologias e nuvem**
+**TECHNOLOGIES**
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,mongodb,nodejs&theme=dark" alt="Tecnologias"/>
 </p>
 
-**Ferramentas**
+**TOOLS**
 
 <p>
   <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab"/>
@@ -62,7 +62,7 @@ Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados
    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" height="48"/>
 </p>
 
-**Protocolos de rede**
+**NETWORK PROTOCOLS**
 
 <p>
   <img src="https://img.shields.io/badge/TCP%2FIP-1F2937?style=flat-square&labelColor=6D28D9" alt="TCP/IP"/>
@@ -97,7 +97,7 @@ Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados
 <br/>-->
 
 <!-- ───────────────────────── ESTATÍSTICAS ───────────────────────── -->
-## `> estatisticas`
+## `> STATISTICS`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=orlandonss&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=C0C0C0&border_color=2D2A4A&count_private=true" alt="GitHub Stats"/>
