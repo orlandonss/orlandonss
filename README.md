@@ -33,7 +33,7 @@ I am a software developer and network engineer. I work on both sides of the conn
 <!-- ───────────────────────── TECNOLOGIAS ───────────────────────── -->
 ## `> STACK`
 
-**Languages**
+**LANGUAGES**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,java,html,css,py&theme=dark" alt="Linguagens"/>
