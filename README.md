@@ -60,6 +60,7 @@ I am a software developer and network engineer. I work on both sides of the conn
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="48"/>
   <img src="https://img.shields.io/badge/GNS3-A78BFA?style=for-the-badge&logoColor=white" alt="GNS3" height="48"/>
    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" height="48"/>
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" height="48"/>
 </p>
 
 **NETWORK PROTOCOLS**
