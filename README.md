@@ -109,7 +109,7 @@ Sou **desenvolvedor de software e engenheiro de redes**. Trabalho nos dois lados
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandonss&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=C0C0C0&area=true&area_color=6D28D9&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/orlandonss/orlandonss/output/metrics-calendar.svg" alt="Calendário de contribuições"/>
 </p>
 
 <br/>
