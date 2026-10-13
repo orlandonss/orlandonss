@@ -119,7 +119,7 @@ I am a software developer and network engineer. I work on both sides of the conn
 </p>
 
 <!-- ───────────────────────── REDES ───────────────────────── -->
-## `> contato`
+## `> REACH ME`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/orlandosantos22"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
