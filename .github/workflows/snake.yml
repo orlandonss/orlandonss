@@ -19,60 +19,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=A78BFA&color_dots=161B22,3B2A6B,6D28D9,8B5CF6,C4B5FD
-
-      - name: Add month, year and weekday labels
-        run: |
-          python3 - <<'EOF'
-          import re, datetime
-
-          MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
-          EXTRA = 28  # extra space on the left for Mon/Wed/Fri
-
-          for name, color in (("dist/github-snake.svg", "#57606a"),
-                              ("dist/github-snake-dark.svg", "#8b949e")):
-              svg = open(name, encoding="utf-8").read()
-
-              m = re.search(r'viewBox="(-?\d+) (-?\d+) (\d+) (\d+)"', svg)
-              x0, y0, w, h = map(int, m.groups())
-              cols = w // 16 - 2
-              last = cols - 1
-
-              today = datetime.date.today()
-              last_sunday = today - datetime.timedelta(days=(today.weekday() + 1) % 7)
-
-              labels = []
-              prev_month = None
-              marks = []
-              for i in range(cols):
-                  sunday = last_sunday - datetime.timedelta(weeks=last - i)
-                  if sunday.month != prev_month:
-                      marks.append((i, sunday))
-                      prev_month = sunday.month
-              # skip first label if the next month starts too close (avoids overlap)
-              if len(marks) > 1 and marks[1][0] - marks[0][0] < 3:
-                  marks = marks[1:]
-
-              for n, (i, d) in enumerate(marks):
-                  text = MONTHS[d.month - 1]
-                  if n == 0 or d.month == 1:
-                      text += f" {d.year}"
-                  labels.append(f'<text x="{i*16+2}" y="-8" font-size="10">{text}</text>')
-
-              for row, day in ((1, "Mon"), (3, "Wed"), (5, "Fri")):
-                  labels.append(f'<text x="{-EXTRA-0}" y="{row*16+12}" font-size="10">{day}</text>')
-
-              group = ('<g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" '
-                       f'fill="{color}">' + "".join(labels) + "</g>")
-
-              svg = svg.replace(m.group(0),
-                                f'viewBox="{x0 - EXTRA} {y0} {w + EXTRA} {h}"', 1)
-              svg = re.sub(r'(<svg[^>]*?\swidth=")(\d+)(")',
-                           lambda mm: f'{mm.group(1)}{int(mm.group(2)) + EXTRA}{mm.group(3)}',
-                           svg, count=1)
-              svg = svg.replace("</svg>", group + "</svg>")
-              open(name, "w", encoding="utf-8").write(svg)
-          EOF
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
