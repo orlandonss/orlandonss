@@ -107,11 +107,6 @@ I am a software developer and network engineer. I work on both sides of the conn
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=orlandonss&background=0D1117&stroke=2D2A4A&ring=A78BFA&fire=C0C0C0&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C0C0C0&dates=8B949E&border=2D2A4A" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orlandonss/orlandonss/output/metrics-calendar.svg" alt="Calendário de contribuições"/>
-</p>
-
 <br/>
 
 <!-- ───────────────────────── SNAKE ───────────────────────── -->
