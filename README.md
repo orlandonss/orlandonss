@@ -124,7 +124,7 @@ I am a software developer and network engineer. I work on both sides of the conn
 
 <p align="center">
   <a href="https://www.linkedin.com/in/orlandosantos22"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orlandonss.com"><img src="https://img.shields.io/badge/Portfolio-C0C0C0/style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/></a>
+  <a href="https://orlandonss.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C0C0C0/style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/></a>
   <a href="mailto:orlando.p.nogueira@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
