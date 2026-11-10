@@ -97,13 +97,13 @@ I am a software developer and network engineer. I work on both sides of the conn
 
 <br/>-->
 
-<!-- ───────────────────────── ESTATÍSTICAS ───────────────────────── -->
+<!-- ───────────────────────── ESTATÍSTICAS ───────────────────────── 
 ## `> STATISTICS`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=orlandonss&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=C0C0C0&border_color=2D2A4A&count_private=true" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandonss&layout=compact&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=2D2A4A&langs_count=8" alt="Top Languages"/>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=orlandonss&background=0D1117&stroke=2D2A4A&ring=A78BFA&fire=C0C0C0&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C0C0C0&dates=8B949E&border=2D2A4A" alt="GitHub Streak"/>
